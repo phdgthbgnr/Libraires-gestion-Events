@@ -261,7 +261,7 @@ manageEvents.listenerAnimAdd=function(id, evt, callback, capture){
 manageEvents.versionAnimEvents.init();
 ````
 
-### plungin Transition (CSS)
+### plugin Transition (CSS)
 
 ````js
 /*
@@ -345,7 +345,7 @@ manageEvents.listenertransAdd=function(id, evt, callback, capture){
 manageEvents.versionTransEvents.init();
 ````
 
-plugin pour video (cuepoints)
+### plugin pour video (cuepoints)
 
 ````js
 manageEvents = typeof manageEvents !== undefined ? manageEvents : {};
