@@ -261,7 +261,7 @@ manageEvents.listenerAnimAdd=function(id, evt, callback, capture){
 manageEvents.versionAnimEvents.init();
 ````
 
-#### plungin Transition (CSS)
+### plungin Transition (CSS)
 
 ````js
 /*
@@ -474,7 +474,7 @@ manageEvents.CuePoint = {
 }
 ````
 
-#### plugin pour les promises (basé sur Q) principalement utilisé pour les requêtes XHR
+### plugin pour les promises (basé sur Q) principalement utilisé pour les requêtes XHR
 
 ````js
 manageEvents = typeof manageEvents !== undefined ? manageEvents : {};
